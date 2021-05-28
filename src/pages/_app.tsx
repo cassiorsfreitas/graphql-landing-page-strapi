@@ -16,9 +16,8 @@ const App = ({ Component, pageProps }: AppProps) => {
         <link rel="apple-touch-icon" href="/img/icon-512.png" />
       </Head>
       <NextSeo
-        title="React Avançado - Crie aplicações reais com NextJS, GraphQL e mais."
-        description="Aprenda a criar um Ecommerce completo, indo do Backend ao Frontend utilizando tecnologias como ReactJS, NextJS, Strapi, GraphQL, Apollo e muito mais!"
-        canonical="https://reactavancado.com.br/"
+        title="Blue Ocean App - The world is suffering from the polution that, we, humans, create."
+        description="The app aims to bring awareness to that problem and become a tool to denounce and act. The MVP was developed in 48 hours and won the 3rd edition of Hackathon Aveiro from the Academia de Código."
         openGraph={{
           url: 'https://reactavancado.com.br/',
           title:

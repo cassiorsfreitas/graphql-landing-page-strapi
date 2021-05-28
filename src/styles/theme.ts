@@ -21,10 +21,10 @@ export default {
     }
   },
   colors: {
-    primary: '#F231A5',
+    primary: '#30E391',
     primaryHover: '#E20E8D',
-    secondary: '#3CD3C1',
-    mainBg: '#030518',
+    secondary: '#5967F1',
+    mainBg: '#5C6AF3',
     boxBg: '#FAFAFA',
     texts: '#030517',
     white: '#FFFFFF',
