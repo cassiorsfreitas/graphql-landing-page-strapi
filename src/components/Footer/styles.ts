@@ -23,5 +23,10 @@ export const Wrapper = styled.footer`
       text-decoration: none;
       border-bottom: 1px solid ${theme.colors.primary};
     }
+
+    .icon-github {
+      margin-right: 10px;
+      vertical-align: middle;
+    }
   `}
 `

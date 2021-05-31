@@ -1,4 +1,5 @@
 import React from 'react'
+import { FaGithub } from 'react-icons/fa'
 
 import Container from 'components/Container'
 
@@ -8,12 +9,11 @@ const Footer = () => (
   <S.Wrapper>
     <Container>
       <p>
-        Desenvolvido por{' '}
-        <a href="https://willianjusten.com.br/">Willian Justen </a>e
-        <a href="https://guilouro.dev"> Guilherme Louro</a>
-      </p>
-      <p>
-        Design por <a href="https://dribbble.com/vmarcosp">Marcos Oliveira</a>
+        <FaGithub className="icon-github" />
+        Developed by{' '}
+        <a href="https://github.com/cassiorsfreitas?tab=repositories">
+          Cássio Freitas{' '}
+        </a>
       </p>
     </Container>
   </S.Wrapper>
